@@ -4,7 +4,7 @@ An Interpretable Threat Detection Method for Human Violence Scenarios Guided by 
 
 ## Model Architecture
 
-![example](./imgs/图3.jpg)
+![example](.imgs/model_arch.png)
 
 > Overview of Hoi2Threat：
 > - Hoi2Threat takes visual information as input and generates interpretations of detected anomalous events as output.
