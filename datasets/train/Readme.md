@@ -1,7 +1,7 @@
 # Triansets of Hoi2Threat
 This file includes the data to test the Hoi2Threat
 
-1.Trian_HOITR.odgt is using to train the HOTR, you can get it from 
+1.Trian_HOITR.odgt is using to train the HOTR, you can get the codes from 
 [HOTR](https://github.com/kakaobrain/hotr)
 
 2.Trian_HOI2T.json is using to train the Hoi2Threat
