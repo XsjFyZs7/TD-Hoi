@@ -17,12 +17,16 @@ Furthermore, we have designed a set of indicator systems for evaluating the qual
 > Overview of Hoi2Threat：
 > - Hoi2Threat takes visual information as input and generates interpretations of detected anomalous events as output.
 
-## Inference Hoi2Threat
+## How to train the Hoi2Threat
+
+Code is coming soon.
 
 ```bash
-python scripts/inference_hoi2t.py \
-    --image /path/to/your/image.jpg \
-    --pretrained /path/to/pretrained/model.pth \
-    --image-size 224 \
-    --thre 0.6
+
+## Inference Hoi2Threat
+
+Code is coming soon.
+
+```bash
+
 
