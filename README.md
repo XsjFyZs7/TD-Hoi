@@ -17,6 +17,13 @@ Furthermore, we have designed a set of indicator systems for evaluating the qual
 > Overview of Hoi2Threat：
 > - Hoi2Threat takes visual information as input and generates interpretations of detected anomalous events as output.
 
+## Display of Results
+
+![example](./imgs/results.png)
+
+> Results of Hoi2Threat：
+> - We compared the performance of Hoi2Threat, GLM4, MiniCPM - v, and Tag2Text. To intuitively present the model performance, correct interpretations are marked in green, while incorrect interpretations are marked in red.
+
 ## How to train the Hoi2Threat
 
 Code is coming soon.
