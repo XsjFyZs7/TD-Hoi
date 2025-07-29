@@ -1,4 +1,4 @@
-# Testsets of Hoi2Threat
+# Testsets of TD-Hoi
 This file includes the data to test the Hoi2Threat
 The images can be got in different way
 ## Download from link
