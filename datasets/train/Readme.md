@@ -1,4 +1,4 @@
-# Triansets of Hoi2Threat
+# Triansets of TD-Hoi
 This file includes the data to test the Hoi2Threat
 
 1.Trian_HOITR.odgt is using to train the HOTR, you can get the codes from 
